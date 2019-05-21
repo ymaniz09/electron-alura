@@ -1,0 +1,23 @@
+{
+  "name": "electron-alura",
+  "version": "1.0.0",
+  "description": "Cursos da [Electron: Crie aplicativos Desktop com as tecnologias da Web](https://cursos.alura.com.br/course/electron), disponível na plataforma da Alura.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymaniz09/electron-alura.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymaniz09/electron-alura/issues"
+  },
+  "homepage": "https://github.com/ymaniz09/electron-alura#readme",
+  "dependencies": {
+    "electron": "5.0.1"
+  }
+}
