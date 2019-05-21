@@ -46,4 +46,7 @@ Cursos da [Electron: Crie aplicativos Desktop com as tecnologias da Web](https:/
 ### You'll need to install all the project dependencies
 
 - `npm install`
+
+### Start the app
+
 - Run `npm start`.
