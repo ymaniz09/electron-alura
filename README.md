@@ -5,7 +5,7 @@ Cursos da [Electron: Crie aplicativos Desktop com as tecnologias da Web](https:/
 ## Contents
 
 - [X] Introdução
-- [ ] Comunicação entre processos e janelas
+- [X] Comunicação entre processos e janelas
 - [ ] Implementando o Timer
 - [ ] Salvando os dados do curso
 - [ ] Adicionando a aplicação ao Tray
